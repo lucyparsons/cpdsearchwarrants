@@ -1,0 +1,16 @@
+bokeh==1.0.2
+flask
+flask_restful
+folium
+geojson
+geopy
+moviepy
+pandas
+psycopg2
+requests
+seaborn
+selenium
+shapely
+docopt
+psycopg2cffi
+jinjasql
