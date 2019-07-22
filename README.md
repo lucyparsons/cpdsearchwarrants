@@ -1,6 +1,8 @@
 # Chicago Police Search Warrant Data
 
-Five years of executed search warrants by Chicago Police (2012-2017) including geolocation (via GeoJSON files), CSVs and some raw code to do the data visualization currently hosted [here](https://viz.mchap.io/search_warrants)
+Five years of executed search warrants by Chicago Police (2012-2017) including geolocation (via GeoJSON files), CSVs and some raw code to do the data visualization currently hosted [here](https://viz.mchap.io/search_warrants).
+
+![](images/searchwarrant_readme.png)
 
 ## What is Included in Here
 The _location_ of the execution of a search warrant covering five years. We sent a [Freedom of Information Act](https://www.muckrock.com/foi/chicago-169/search-warrant-log-56379/) request for the data and had to spend ~1 year going back and forward them on it. 
